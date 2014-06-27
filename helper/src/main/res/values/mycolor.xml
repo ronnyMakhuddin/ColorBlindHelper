@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_splash">#316799</color>
+    <color name="white_dashboard">#33999999</color>
+    <color name="black_dashboard">#323232</color>
+    <color name="white_title">#FFFFFF</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="blue_dark">#ff0099cc</color>
+
+    <color name="gray_header">#b7b5b5</color>
+    <color name="dark_gray_footer">#51545c</color>
+
+    <color name="dark_transparent">#B351545c</color>
+    <color name="gray_transparent">#3351545c</color>
+    <color name="dark_gray_content">#52555d</color>
+    </resources>

@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="title_1">
+        <item name="android:textSize">@dimen/title</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white_title</item>
+    </style>
+
+    <style name="label_1">
+        <item name="android:textSize">@dimen/label</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white_title</item>
+    </style>
+
+    <style name="header">
+        <item name="android:textSize">@dimen/title2</item>
+    </style>
+
+    <style name="text">
+        <item name="android:textSize">@dimen/text</item>
+        <item name="android:padding">@dimen/double_margin</item>
+        <item name="android:textColor">@color/black_dashboard</item>
+    </style>
+
+    <style name="footer">
+        <item name="android:textSize">@dimen/title2</item>
+        <item name="android:padding">@dimen/standar_margin</item>
+        <item name="android:textColor">@color/white_title</item>
+
+    </style>
+
+    <style name="CustomDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+
+</resources>

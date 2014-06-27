@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Color Blind Helper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title1">Input</string>
+    <string name="title2">Closest</string>
+
+    <string name="welcome_title">Welcome</string>
+
+    <string name="welcome">Color Blind Helper is a tool that seeks to improve visual conditions for people with color blindness by giving them information such as the name, color composition in RGB or hexadecimal representation from a color in a selected image.
+        \n\nThis application is designed based in the work of French Gauthier Lemoine who used  Euclidean metrics, the algorithm kNN (k Nearest Neighbor) and a database of names and values ​​of colors to let you know the name of a given color.
+    </string>
+
+    <string name="get_started">Get Started !</string>
+
+    <string-array name="targets">
+        <item>Color Blind Helper</item>
+        <item>color blindness</item>
+    </string-array>
+
+    <string name="custom_pic_menu">Select from camera</string>
+    <string name="custom_gallery_menu">Select from gallery</string>
+
+</resources>
